@@ -1,0 +1,34 @@
+*{
+    font-family: 'Gabriela';
+    margin: 0;
+}
+/* nav{
+    padding: 20px;
+} */
+.bold{
+    font-weight: bolder;
+}
+header{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.9),rgba(0,0,0,0.5)), url(../images/header1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+#jumpsuit{
+    min-height: 550px;
+}
+#palazzo{
+    min-height: 550px;
+}
+.leftmove{
+    margin-left: 45%;
+    margin-top: 19%;
+}
+.smallmove{
+    margin-left: 8%;
+    margin-top: 70%;
+}
+.small_screen{
+    margin-left: 30%;
+    margin-top: 70%;
+}

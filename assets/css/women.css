@@ -1,0 +1,13 @@
+*{
+    font-family: 'Gabriela';
+    margin: 0;
+}
+header{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.2)), url(https://i0.wp.com/www.thrivenaija.com/wp-content/uploads/2019/02/short-gown-styles.jpg?fit=1330%2C851&ssl=1);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.bold{
+    font-weight: bolder;
+}
